@@ -20,9 +20,9 @@ module.exports = {
     },
 
     // Server
-    devServer: {
-        static: path.join(__dirname, 'dist'),
-        compress: true,
-        port: 3500,
-    }
+    // devServer: {
+    //     static: path.join(__dirname, 'dist'),
+    //     compress: true,
+    //     port: 3500,
+    // }
 }
