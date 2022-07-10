@@ -4,7 +4,7 @@
   "description": "A app to learn webpack",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --config custom.js"
   },
   "keywords": [],
   "author": "Sarthak Agrawal",
